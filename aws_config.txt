@@ -1,0 +1,11 @@
+.aws/config
+
+[prod]
+region=us-west-1
+output=json
+
+
+.aws/credentials
+[prod]
+aws_access_key_id = 
+Aws_secret_access_key = 
